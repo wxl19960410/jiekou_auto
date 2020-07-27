@@ -1,0 +1,61 @@
+[ {
+  "uid" : "9d7a45a5f5f4929f",
+  "name" : "登录 api-0106",
+  "time" : {
+    "start" : 1595815824062,
+    "stop" : 1595815824478,
+    "duration" : 416
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3db796acc0a158af",
+  "name" : "登录 api-0103",
+  "time" : {
+    "start" : 1595815822778,
+    "stop" : 1595815823191,
+    "duration" : 413
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f78761f12b247666",
+  "name" : "登录 api-0105",
+  "time" : {
+    "start" : 1595815823641,
+    "stop" : 1595815824060,
+    "duration" : 419
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a7f252dee5d4b945",
+  "name" : "登录 api-0102",
+  "time" : {
+    "start" : 1595815822297,
+    "stop" : 1595815822776,
+    "duration" : 479
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b9186dd5cab0fc4c",
+  "name" : "登录 api-0101",
+  "time" : {
+    "start" : 1595815821201,
+    "stop" : 1595815822284,
+    "duration" : 1083
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "24011b8fb55a48cb",
+  "name" : "登录 api-0104",
+  "time" : {
+    "start" : 1595815823193,
+    "stop" : 1595815823641,
+    "duration" : 448
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

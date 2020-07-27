@@ -1,0 +1,110 @@
+{
+  "uid" : "88f046502c6cfdab",
+  "name" : "登录 api-0102",
+  "fullName" : "Cases.登录API.用户登录.登录 api-0102",
+  "historyId" : "a5566020d868c6b59cb7523066fa38db",
+  "time" : {
+    "start" : 1595815187525,
+    "stop" : 1595815187962,
+    "duration" : 437
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "F.Suite Setup",
+    "time" : {
+      "stop" : 1595815186107
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "72853feb270068a6",
+      "name" : "Keyword Log",
+      "source" : "72853feb270068a6.html",
+      "type" : "text/html",
+      "size" : 1740
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "C_login_fail.Teststeps",
+      "time" : {
+        "start" : 1595815187525,
+        "stop" : 1595815187961,
+        "duration" : 436
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5aa143e084d284c2",
+        "name" : "Keyword Log",
+        "source" : "5aa143e084d284c2.html",
+        "type" : "text/html",
+        "size" : 761
+      } ],
+      "parameters" : [ {
+        "name" : "arg1",
+        "value" : "${0}"
+      } ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Cases"
+  }, {
+    "name" : "suite",
+    "value" : "登录API"
+  }, {
+    "name" : "subSuite",
+    "value" : "用户登录"
+  }, {
+    "name" : "framework",
+    "value" : "robotframework"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "host",
+    "value" : "PC-20180809BGFX"
+  }, {
+    "name" : "thread",
+    "value" : "default"
+  }, {
+    "name" : "tag",
+    "value" : "登录功能"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "登录功能" ]
+  },
+  "source" : "88f046502c6cfdab.json",
+  "parameterValues" : [ ]
+}

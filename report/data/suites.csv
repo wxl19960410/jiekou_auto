@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 27 10:10:24 CST 2020","Mon Jul 27 10:10:24 CST 2020","416","Cases","登录API","用户登录","","","登录 api-0106",""
+"passed","Mon Jul 27 10:10:22 CST 2020","Mon Jul 27 10:10:22 CST 2020","479","Cases","登录API","用户登录","","","登录 api-0102",""
+"passed","Mon Jul 27 10:10:23 CST 2020","Mon Jul 27 10:10:23 CST 2020","448","Cases","登录API","用户登录","","","登录 api-0104",""
+"passed","Mon Jul 27 10:10:21 CST 2020","Mon Jul 27 10:10:22 CST 2020","1083","Cases","登录API","用户登录","","","登录 api-0101",""
+"passed","Mon Jul 27 10:10:23 CST 2020","Mon Jul 27 10:10:24 CST 2020","419","Cases","登录API","用户登录","","","登录 api-0105",""
+"passed","Mon Jul 27 10:10:22 CST 2020","Mon Jul 27 10:10:23 CST 2020","413","Cases","登录API","用户登录","","","登录 api-0103",""

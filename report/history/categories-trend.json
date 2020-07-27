@@ -1,0 +1,86 @@
+[ {
+  "buildOrder" : 16,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/16/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/15/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/14/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "nulljob/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "nulljob/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 16
+  }
+} ]

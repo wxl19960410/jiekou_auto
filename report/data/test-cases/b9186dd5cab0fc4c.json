@@ -1,0 +1,227 @@
+{
+  "uid" : "b9186dd5cab0fc4c",
+  "name" : "登录 api-0101",
+  "fullName" : "Cases.登录API.用户登录.登录 api-0101",
+  "historyId" : "07e5866aa3737fafb9d45b85369eab43",
+  "time" : {
+    "start" : 1595815821201,
+    "stop" : 1595815822284,
+    "duration" : 1083
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "F.Suite Setup",
+    "time" : {
+      "stop" : 1595815821200
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9fb8ea56b9f5ace4",
+      "name" : "Keyword Log",
+      "source" : "9fb8ea56b9f5ace4.html",
+      "type" : "text/html",
+      "size" : 1740
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "C_login_pass.Teststeps",
+      "time" : {
+        "start" : 1595815821201,
+        "stop" : 1595815822280,
+        "duration" : 1079
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6ac685b2a76f954c",
+        "name" : "Keyword Log",
+        "source" : "6ac685b2a76f954c.html",
+        "type" : "text/html",
+        "size" : 782
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Cases"
+  }, {
+    "name" : "suite",
+    "value" : "登录API"
+  }, {
+    "name" : "subSuite",
+    "value" : "用户登录"
+  }, {
+    "name" : "framework",
+    "value" : "robotframework"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "host",
+    "value" : "PC-20180809BGFX"
+  }, {
+    "name" : "thread",
+    "value" : "default"
+  }, {
+    "name" : "tag",
+    "value" : "登录功能"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "329168569a3734ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595815186124,
+        "stop" : 1595815187519,
+        "duration" : 1395
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 12,
+        "unknown" : 0,
+        "total" : 12
+      },
+      "items" : [ {
+        "uid" : "931d7e194b51c203",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/15/allure/#testresult/931d7e194b51c203",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595815186124,
+          "stop" : 1595815187519,
+          "duration" : 1395
+        }
+      }, {
+        "uid" : "50c52a618a70374a",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/12/allure/#testresult/50c52a618a70374a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "2a34cde68f0eafbb",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/11/allure/#testresult/2a34cde68f0eafbb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "c66cbe6512addb55",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/10/allure/#testresult/c66cbe6512addb55",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "cb928f13b905d05e",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/9/allure/#testresult/cb928f13b905d05e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "7300a860a25f20ae",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/8/allure/#testresult/7300a860a25f20ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "cf2c6041810b4fc0",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/7/allure/#testresult/cf2c6041810b4fc0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "b045af64fe81d08f",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/6/allure/#testresult/b045af64fe81d08f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "a35d49b7a1199fb",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/5/allure/#testresult/a35d49b7a1199fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "8f260ff5851514b1",
+        "reportUrl" : "nulljob/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/4/allure/#testresult/8f260ff5851514b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      }, {
+        "uid" : "26f2773bf0a6fe09",
+        "reportUrl" : "nulljob/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/3/allure/#testresult/26f2773bf0a6fe09",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595681609276,
+          "stop" : 1595681610504,
+          "duration" : 1228
+        }
+      } ]
+    },
+    "tags" : [ "登录功能" ]
+  },
+  "source" : "b9186dd5cab0fc4c.json",
+  "parameterValues" : [ ]
+}

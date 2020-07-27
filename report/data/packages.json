@@ -1,0 +1,83 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "登录 api-0101",
+    "uid" : "b9186dd5cab0fc4c",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595815821201,
+      "stop" : 1595815822284,
+      "duration" : 1083
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "登录 api-0102",
+    "uid" : "a7f252dee5d4b945",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595815822297,
+      "stop" : 1595815822776,
+      "duration" : 479
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "登录 api-0103",
+    "uid" : "3db796acc0a158af",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595815822778,
+      "stop" : 1595815823191,
+      "duration" : 413
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "登录 api-0104",
+    "uid" : "24011b8fb55a48cb",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595815823193,
+      "stop" : 1595815823641,
+      "duration" : 448
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "登录 api-0105",
+    "uid" : "f78761f12b247666",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595815823641,
+      "stop" : 1595815824060,
+      "duration" : 419
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "登录 api-0106",
+    "uid" : "9d7a45a5f5f4929f",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595815824062,
+      "stop" : 1595815824478,
+      "duration" : 416
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
